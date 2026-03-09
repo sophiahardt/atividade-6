@@ -24,11 +24,6 @@ body {
     background-color: yellow;
 }
 
-.purple {
-    padding-right: 80px;
-    padding-bottom: 80px;
-}
-
 .flex {
     display: flex;
 }
