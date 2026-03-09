@@ -32,3 +32,15 @@ body {
 .flex {
     display: flex;
 }
+
+.coluna {
+    flex-direction: column;
+}
+
+.pequeno {
+    flex: 1;
+}
+
+.grande {
+    flex: 2;
+}
