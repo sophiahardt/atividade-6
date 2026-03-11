@@ -32,20 +32,10 @@ body {
     flex-direction: column;
 }
 
-.pequeno {
-    flex: 1;
+.green2 {
+    flex-grow: 1;
+    background-color: yellow;
 }
 
-.grande {
-    flex: 2;
-}
 
-.container-pai {
-    display: flex;
-}
-
-.container-filho {
-    display: flex;
-    flex-direction: column;
-}
 
