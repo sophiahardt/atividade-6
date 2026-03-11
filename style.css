@@ -39,3 +39,13 @@ body {
 .grande {
     flex: 2;
 }
+
+.container-pai {
+    display: flex;
+}
+
+.container-filho {
+    display: flex;
+    flex-direction: column;
+}
+
